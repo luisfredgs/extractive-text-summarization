@@ -2,9 +2,9 @@ Extractive text summarization based on word frequencies and spacy.
 
 # Starting
 
-Firstly, you need download the general-purpose spacy pretrained models. Type this command for that: ```./download.sh```
+Firstly, a necessary step is downloading the general-purpose spacy pre-trained models. Type this command: ```./download.sh```
 
-Further, to makes a summary type the command: ```python summarization.py --language=portuguese --nb_sentences=2```
+Next, type the following command to makes a summary: ```python summarization.py --language=portuguese --nb_sentences=2```
 
 # Usage
 
