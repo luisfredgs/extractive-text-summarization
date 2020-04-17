@@ -8,7 +8,7 @@ Further, to makes a summary type the command: ```python summarization.py --langu
 
 # Usage
 
-```bash
+```
 usage: summarization.py [-h] [--nb_sentences NB_SENTENCES]
                         [--original_text ORIGINAL_TEXT] [--language LANGUAGE]
 
