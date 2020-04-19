@@ -1,6 +1,6 @@
 Extractive text summarization based on word frequencies and spacy.
 
-# Requiriments
+# Requirements
 * Spacy
 * Scikit-learn
 
