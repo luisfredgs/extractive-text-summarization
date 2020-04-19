@@ -1,5 +1,9 @@
 Extractive text summarization based on word frequencies and spacy.
 
+# Requiriments
+* Spacy
+* Scikit-learn
+
 # Starting
 
 Firstly, a necessary step is downloading the general-purpose spacy pre-trained models. Then, enter in terminal and type this command: ```./download.sh```
